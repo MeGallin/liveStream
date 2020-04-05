@@ -1,0 +1,10 @@
+.booth {
+  width: 400px;
+  background-color: #cccccc;
+  border: 10px solid #dddddd;
+}
+
+#canvas {
+  filter: sepia(80%);
+  /* filter: contrast(200%); */
+}
